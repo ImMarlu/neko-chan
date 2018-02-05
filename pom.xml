@@ -17,9 +17,9 @@
                 <version>3.0.1</version>
                 <executions>
                     <execution>
-                        <id>copy-dependencies</id>
+                        <id>Neko-Chan.jar</id>
                         <phase>package</phase>
-                        <goals><goal>copy-dependencies</goal></goals>
+                        <goals><goal>Neko-Chan.jar</goal></goals>
                     </execution>
                 </executions>
             </plugin>
