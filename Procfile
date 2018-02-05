@@ -1,1 +1,1 @@
-worker: node Neko-Chan.jar
+worker: sh target/bin/worker
